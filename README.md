@@ -6,7 +6,8 @@
 2. Change name folder (Defaul: react-template-v1)
 3. cd/my-project-folder
 4. run npm install
-5. Delete git: rm -rf .git
-6. Initialize git: git init
+5. Change name project in package.json
+6. Delete git: rm -rf .git
+7. Initialize git: git init
 
 npm run dev
